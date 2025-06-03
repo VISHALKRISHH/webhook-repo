@@ -3,7 +3,8 @@
 This is the backend service built with **Flask** to receive GitHub webhook events from `action-repo`, parse them, and store the events in **MongoDB Atlas**.
 
 > Front-end: https://github.com/VISHALKRISHH/webhook-ui/blob/main/src/App.js (react app)
-> Front-end display: 
+
+> Front-end display: https://github.com/VISHALKRISHH/webhook-ui/blob/main/src/index.html
 ## 🧠 Features
 
 - Receives webhooks for:
